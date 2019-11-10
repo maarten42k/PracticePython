@@ -6,5 +6,7 @@ elif exercise == 2:
     import Exercise2
 elif exercise == 3:
     import Exercise3
+elif exercise == 4:
+    import Exercise4
 else:
     print("This project does not exist!")
